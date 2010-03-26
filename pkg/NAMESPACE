@@ -1,0 +1,14 @@
+import( rJava )
+
+export(
+	## core functions
+	PApplet,
+	PAddJar,
+	PClose,
+	PResize,
+	PSet,
+	
+	## examples
+	PScatter
+      )
+
